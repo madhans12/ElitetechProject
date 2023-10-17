@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElitetechProject/static/css/main.5513bfb2.css",
+    "main.js": "/ElitetechProject/static/js/main.fdca415c.js",
+    "static/js/787.f055211e.chunk.js": "/ElitetechProject/static/js/787.f055211e.chunk.js",
+    "index.html": "/ElitetechProject/index.html",
+    "main.5513bfb2.css.map": "/ElitetechProject/static/css/main.5513bfb2.css.map",
+    "main.fdca415c.js.map": "/ElitetechProject/static/js/main.fdca415c.js.map",
+    "787.f055211e.chunk.js.map": "/ElitetechProject/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5513bfb2.css",
+    "static/js/main.fdca415c.js"
+  ]
+}
